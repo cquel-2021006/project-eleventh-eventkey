@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e1e1e1;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    overflow: hidden;
+    display: flex;
+    height: 100vh;
+    font-family: 'muli', sans-serif;
+}
+
+p {
+    margin: 0.8rem;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border: 1px solid #999;
+    border-radius: 25px;
+    padding: 25px;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 40px;
+}
